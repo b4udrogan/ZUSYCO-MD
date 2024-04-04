@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "254755830324",
+  SUDO_NUMBERS : "254755830324,923355911210",
+  OWNER_NAME: "『 𝑩4𝑼 𝑫𝑹𝑶𝑮𝑨𝑵』",
+  BOT_NAME : "𝑩4𝑼 𝑫𝑹𝑶𝑮𝑨𝑵",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
