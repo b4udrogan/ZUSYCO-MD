@@ -16,8 +16,8 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "254755830324",
-  SUDO_NUMBERS : "254755830324,923355911210",
+  OWNER_NUMBER: "923086276303",
+  SUDO_NUMBERS : "923086276303",
   OWNER_NAME: "『 𝑩4𝑼 𝑫𝑹𝑶𝑮𝑨𝑵』",
   BOT_NAME : "𝑩4𝑼 𝑫𝑹𝑶𝑮𝑨𝑵",
   ZUSYCO_FILE : "ZUSYCO-QR",
